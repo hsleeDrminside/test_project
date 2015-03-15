@@ -3,5 +3,11 @@
 int main()
 {
     printf("Hello, world!\n");
+
+
+    //2번째 커밋 코드 추가
+    printf("Hello, DRMinside\n");
+    printf("The Project 2015!\n");
+
     return 0;
 }
