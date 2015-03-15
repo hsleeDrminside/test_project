@@ -1,11 +1,11 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
  
 int main()
 {
     printf("Hello, world!\n");
 
 
-    //2¹øÂ° Ä¿¹Ô ÄÚµå Ãß°¡
+    //2ë²ˆì§¸ ì»¤ë°‹ ì½”ë“œ ì¶”ê°€
     printf("Hello, DRMinside\n");
     printf("The Project 2015!\n");
 
